@@ -13,13 +13,13 @@
   "keywords": [
     "csv"
   ],
-  "author":  "crguezl"
+  "author":  "crguezl",
   "contributors": ["Norberto Garcia", "Albano  Yanes"],
   "license": "ISC",
   "bugs": {
     "url": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
   },
-  "homepage": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+  "homepage": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
   "dependencies": {
 	"jquery": "*",
     "underscore": "*",
