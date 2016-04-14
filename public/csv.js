@@ -72,6 +72,7 @@ $(document).ready(() => {
     /* Request AJAX para que se calcule la tabla */
     $("#parser").click( () => {
           if (window.localStorage) localStorage.original = original.value;
+          console.log("hola");
           $.get("/csv", /* Request AJAX para que se calcule la tabla */
             { input: original.value },
             fillTable,
@@ -80,7 +81,7 @@ $(document).ready(() => {
      });
    /* botones para rellenar el textarea */
    $('button.example').each( (_,y) => {
-     $(y).click( () => { dump(`${$(y).text()}.txt`); });
+     $(y).click( () => {dump(`${$(y).text()}.txt`); });
    });
 
     // Setup the drag and drop listeners.
