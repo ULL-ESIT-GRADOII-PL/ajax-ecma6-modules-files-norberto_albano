@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+    "url": "ULL-ESIT-GRADOII-PL/ajax-ecma6-modules-files-norberto_albano"
   },
   "keywords": [
     "csv"
   ],
-  "author": XXXXXXXXXX
-  "contributors": [],
+  "author":  "crguezl"
+  "contributors": ["Norberto Garcia", "Albano  Yanes"],
   "license": "ISC",
   "bugs": {
-    "url": XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+    "url": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
   },
-  "homepage": XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  "homepage": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
   "dependencies": {
 	"jquery": "*",
     "underscore": "*",
@@ -29,7 +29,7 @@
     "express-ejs-layouts": "~1.1.0"
   },
   "engines": {
-    "node": XXXXX
+    "node": "XXXXX"
   },
   "devDependencies": {
   }
