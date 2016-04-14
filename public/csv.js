@@ -80,7 +80,7 @@ $(document).ready(() => {
      });
    /* botones para rellenar el textarea */
    $('button.example').each( (_,y) => {
-     $(y).click( () => { dump(`examples/${$(y).text()}.txt`); });
+     $(y).click( () => { dump(`public/${$(y).text()}.txt`); });
    });
 
     // Setup the drag and drop listeners.
